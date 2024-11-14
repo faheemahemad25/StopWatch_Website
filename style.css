@@ -1,0 +1,62 @@
+body{
+    background-color: #343653e5;
+    color: rgb(168, 168, 168);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+
+}
+
+.container{
+background-color: rgb(20, 20, 52) ;
+width: 300px;
+height: 400px;
+border-radius: 20px;
+padding: 25px;
+/* box-shadow: 2px 2px 2px 2px wheat; */
+
+}
+
+.timerArea, .buttonArea, .infoArea{
+    margin-bottom: 20px;
+    /* border: 2px solid red; */
+
+}
+.timerArea, .infoArea{
+    text-align: center;
+    color: rgb(255, 179, 191);
+
+}
+.timerArea{
+    height: 25%;
+    font-size: 60px;  
+}
+.infoArea{
+
+}
+
+.buttonArea{
+    /* display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;   */
+    /* justify-content: space-evenly; */
+    /* row-gap: 5px; */
+    /* column-gap: 50px; */
+    /* padding: 20px; */
+
+}
+#btnDesign{
+    /* gap: 5px; */
+    /* font-size: 20px; */
+    /* text-align: center; */
+    border-radius: 20px;
+    padding: 10px;
+    width: 100px;
+    margin: 10px 15px 0px 15px;
+    /* box-shadow: 1px 1px 1px rgb(111, 132, 236); */
+    box-shadow: 1px 1px 10px #6b74f3;
+   
+
+}
