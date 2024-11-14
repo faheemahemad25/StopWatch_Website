@@ -1,4 +1,4 @@
-# StopWatch website ⏱️⏰
+# StopWatch website ⏰
 <br>
 <img src='stopwatch.png' width="300px">
 
